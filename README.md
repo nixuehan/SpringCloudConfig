@@ -1,2 +1,2 @@
-# springCloudConfig
+# SpringCloudConfig
 spring cloud config
