@@ -15,7 +15,7 @@ eureka:
       
 
 data:
-  message: 9999999987766
+  message: asdfasdfasdfasdfasdfasdwewewe
 management:
   endpoints:
     web:
