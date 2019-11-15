@@ -15,7 +15,7 @@ eureka:
       
 
 data:
-  message: 8888888
+  message: 999999
 management:
   endpoints:
     web:
