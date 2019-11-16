@@ -15,7 +15,7 @@ eureka:
       
 
 data:
-  message: iiiuuuu
+  message: 你行你来
 management:
   endpoints:
     web:
