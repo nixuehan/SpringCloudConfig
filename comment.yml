@@ -1,0 +1,23 @@
+server:
+  port: 9993
+spring:
+  application:
+    name: comment
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+    healthcheck:
+      enabled: true
+      
+
+data:
+  message: 你厉害
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health,info
