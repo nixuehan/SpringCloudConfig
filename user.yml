@@ -1,5 +1,3 @@
-server:
-  port: 9992
 spring:
   application:
     name: user
